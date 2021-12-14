@@ -59,6 +59,7 @@ def MT (estado = None,  #Estado de la maquina
             if posicion >= len(cinta): cinta.append(blanco)
         ul = s1
 print("")
+print("A G R E G U E E S T A L I N E A D E C O D I G O")
 print("*****************************************************")
 print("*********** M a q u i n a d e t u r i n g ***********")
 print("*****************************************************")
